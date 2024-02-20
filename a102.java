@@ -16,6 +16,7 @@ System.out.println("String value = "+name);
 System.out.println("Character value = "+ch);
 System.out.println("Boolean value = "+bool);
 System.out.println("Long value = "+large);
+int x=10;
 
 }
 }
